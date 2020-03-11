@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	symlinks = false
+[remote "origin"]
+	url = https://github.com/laminas/laminas-zendframework-bridge.git
+	fetch = +refs/*:refs/*
+	mirror = true

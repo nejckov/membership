@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	symlinks = false
+[remote "origin"]
+	url = https://github.com/thephpleague/oauth2-server.git
+	fetch = +refs/*:refs/*
+	mirror = true
